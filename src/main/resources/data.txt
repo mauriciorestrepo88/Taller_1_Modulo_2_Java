@@ -1,0 +1,16 @@
+TI2344919,Pedro Perez,10,Quinto,R
+RC6351978,Maria Martinez,5,Jardin,A
+RC4953724,Lucia Lopez,7,Tercero,R
+RC5424555,Ana Amaris,6,Tercero,A
+TI12023002,Santiago Sanchez,10,Quinto,R
+RC1273391,Andrea Rodriguez,5,Primero,A
+TI13486543,Sebastian Garcia,9,Cuarto,R
+TI8790308,Jaime Jaramillo,8,Cuarto,A
+TI1454941,Juan Paez,11,Quinto,R
+TI7986335,Alberto Alvarez,10,Cuarto,A
+RC13056638,Rosa Martinez,7,Segundo,R
+TI4301520,Diego Diaz,12,Quinto,A
+RC13973270,Erika Bedoya,8,Tercero,R
+RC10616029,Mariana Arbelaez,6,Segundo,R
+RC10592138,Joaquin Zapata,5,Primero,A
+RC14598685,Samuel Marin,4,Jardin,R
